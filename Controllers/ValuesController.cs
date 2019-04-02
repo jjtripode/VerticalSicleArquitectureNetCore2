@@ -11,6 +11,7 @@ namespace VerticalSliceArqTEST.Controllers
     public class ValuesController : Controller
     {
         private readonly IMediator _mediator;
+        private readonly IMediator _mediator3;
 
         public ValuesController(IMediator mediatr)=>_mediator=mediatr;
         // GET api/values
