@@ -1,0 +1,11 @@
+C:\tempProjectos\VerticalSliceArqTEST\bin\Debug\netcoreapp2.0\VerticalSliceArqTEST.deps.json
+C:\tempProjectos\VerticalSliceArqTEST\bin\Debug\netcoreapp2.0\VerticalSliceArqTEST.runtimeconfig.json
+C:\tempProjectos\VerticalSliceArqTEST\bin\Debug\netcoreapp2.0\VerticalSliceArqTEST.runtimeconfig.dev.json
+C:\tempProjectos\VerticalSliceArqTEST\bin\Debug\netcoreapp2.0\VerticalSliceArqTEST.dll
+C:\tempProjectos\VerticalSliceArqTEST\bin\Debug\netcoreapp2.0\VerticalSliceArqTEST.pdb
+C:\tempProjectos\VerticalSliceArqTEST\obj\Debug\netcoreapp2.0\VerticalSliceArqTEST.csprojAssemblyReference.cache
+C:\tempProjectos\VerticalSliceArqTEST\obj\Debug\netcoreapp2.0\VerticalSliceArqTEST.csproj.CoreCompileInputs.cache
+C:\tempProjectos\VerticalSliceArqTEST\obj\Debug\netcoreapp2.0\VerticalSliceArqTEST.AssemblyInfoInputs.cache
+C:\tempProjectos\VerticalSliceArqTEST\obj\Debug\netcoreapp2.0\VerticalSliceArqTEST.AssemblyInfo.cs
+C:\tempProjectos\VerticalSliceArqTEST\obj\Debug\netcoreapp2.0\VerticalSliceArqTEST.dll
+C:\tempProjectos\VerticalSliceArqTEST\obj\Debug\netcoreapp2.0\VerticalSliceArqTEST.pdb
