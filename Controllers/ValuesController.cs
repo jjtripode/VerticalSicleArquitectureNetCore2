@@ -19,6 +19,7 @@ namespace VerticalSliceArqTEST.Controllers
         public async Task<ResponseResult> Get()
         {
             RequestQuery requestQuery = new RequestQuery();
+            RequestQuery requestQuery444 = new RequestQuery();
             return await _mediator.Send(requestQuery);
             // return new string[] { "value1", "value2" };
         }
